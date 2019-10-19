@@ -13,8 +13,8 @@ Enter the Pooky URL, Tohru and Timestamp in `config.js`. Run `npm install` and `
 * **US (Week 8)**
   - **URL:** `https://assets.supremenewyork.com/assets/pooky.min.09fae8f462d73d571c97.js`
   - **Tohru:** `db16d4fd1dcdd1ffbbde3fd188466270d0cfab6e69225c0987cf1d7a46e1f4861edc36abf8eb922ad1792308fcf1d74afc2157dae4371542cc7324ae224faf37`
-  - **Timestamp:** `1571324311000`
-* **JP (Week 5)**
-  - **URL:** `https://d17ol771963kd3.cloudfront.net/assets/pooky.min.14f574b5499bed1cadaa.js`
-  - **Tohru:** `5a9ec55cdd504942e261b9c02adaef09e111a0b73802c941ad9f93ff7f17bc6bb750c87b68bd852ae018d802d7d60f0dd3976d1050691b1d8d5271b47ac19f78`
-  - **Timestamp:** `1569635911000`
+  - **Timestamp:** `1571324310000`
+* **JP (Week 8)**
+  - **URL:** `https://assets.supremenewyork.com/assets/pooky.min.71db4fd882c3d9d90e13.js`
+  - **Tohru:** `6926eaa4cba43a7b1519f1354f99ddac10d2d33056e087e73d311d5d7f7cf9128b85aabb98479dee4a25866fb9c660004ba97fa15e2a0f7be72f004395322a65`
+  - **Timestamp:** `1571450310000`
