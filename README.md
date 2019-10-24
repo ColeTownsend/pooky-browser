@@ -6,7 +6,7 @@ Enter the Pooky URL, Tohru and Timestamp in `config.js`. Run `npm install` and `
 
 ## Latest Pooky Versions
 
-* **EU (Week 8)**
+* **EU (Week 9)**
   - **URL:** `https://assets.supremenewyork.com/assets/pooky.min.9d5f91aab33586281d5c.js`
   - **Tohru:** `2f56fc375f39632b7e4302fdd77119279562d2631a24a50e6361a4cdb54bfccd824ffce20be9e10bf591d71798d287d47b88c4dd8271a34ddb9314afd9ab1617`
   - **Timestamp:** `1571911110000`
